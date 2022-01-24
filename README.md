@@ -1,2 +1,2 @@
-# yeftachristian-resolusi
-repository untuk menyimpan yefta christian kedepannya
+# yeftachristian-sama sama belajar
+repository untuk menyimpan project yefta christian kedepannya
